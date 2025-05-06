@@ -1,1 +1,1 @@
-Download gscScriptCompAndDecompiler.py  Select a folder where your .gsc files are  ->DEFINE
+Download gscScriptCompAndDecompiler.py<br>Select a folder where your .gsc files are<br>->DEFINE<br>This forked version will process all .gsc files in a folder users choose as opposed to one file at a time with the original code
